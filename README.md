@@ -1,0 +1,2 @@
+# dataexploration
+A simple Data Science Exploratory Analysis  Using the github API to retrieve some information about  d3.js repository.     The activity in the d3 github repository over the past year.  -  last year’s history of commits to the repo.  - what week in the last year had  the greatest number of commits.   -  Over the last year, what day of the week had the most commits?    And a Graph  of the number of commits per day of the week with jupyter notebook
